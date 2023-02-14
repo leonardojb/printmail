@@ -12,9 +12,9 @@ Requirements
 Usage
 - Clone or download this repository.
 - Create a .env file in the root directory and add the following information:
-    - LOGIN= <Your Web Platform Login>
-    - PASSWORD= <Your Web Platform Password>
-    - SENDMAIL= <Email to send the screenshot to>
+    - LOGIN= "Your Web Platform Login"
+    - PASSWORD= "Your Web Platform Password"
+    - SENDMAIL= "Email to send the screenshot to"
     
 - Fill in the necessary information in the code, including the web platform link, login ID, password ID, page URL, screenshot folder path, email subject, email body, and success message.
 - Install the necessary packages with pip install -r requirements.txt.
