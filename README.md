@@ -1,7 +1,7 @@
 # printmail
 Thanks to my friend Tharlys for coming up with the idea, and to my friend Nelson for helping me out with some solutions.
 
-Automation Script to Login, Navigate, Take Screenshot and Send Email
+Automation Script to Login, Navigate, Take Screenshot and Send it by Email
 
 This script automates the process of logging into a web platform, navigating to a specific page, taking a screenshot, and sending the screenshot via email.
 
